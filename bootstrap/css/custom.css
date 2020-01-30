@@ -1,0 +1,82 @@
+
+.top{
+
+    background-image: url("resources/1.jpg");
+    height: 50vh;
+    text-align: center;
+    background-size: cover;
+
+}
+.yellow_button{
+    background-color: #ba8b00;
+height: 35px;
+    width: 150px;
+}
+h1{
+    color: white;
+}
+.first_h3{
+    font-family: Chilanka;
+    padding-top: 30px;
+    color: white;
+}
+.aa{
+    justify-content: space-around;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.h_3{
+    color: black;
+
+}
+.row{
+    justify-content: center;
+}
+.head_ing{
+    color: #ba8b00;
+}
+.tree{
+    height: 60vh;
+    background-image: url("resources/leaves4.jpg");
+    background-size: cover;
+   justify-content: left;
+
+}
+.bb{
+    justify-content: end;
+}
+.first_button{
+    background-color: forestgreen;
+}
+.cc{
+    justify-content: end;
+}
+.about_us{
+    justify-content: center;
+}
+.hiker{
+    height: 40vh;
+    width: 100%;
+}
+.dd{
+    height: 40vh;
+    justify-content: center;
+}
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-style: inset;
+    border-width: 3px;
+    color: #0c5460;
+
+}
+.nicole{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
